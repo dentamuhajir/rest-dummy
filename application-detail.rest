@@ -1,0 +1,15 @@
+{
+  "status": "OK",
+  "message": "Data Found",
+  "data": {
+    "id": "01JTJAES424GZ8BEFVFFFQZRCK",
+    "applicationNumber": "20250506151235333539",
+    "nosApplicationNumber": "20250506151235333539",
+    "productName": "GRIYA REGULER",
+    "customerName": "INDAH RATNA FURI",
+    "spouseName": null,
+    "customerEmail": "user05@devmail.bankbsi.co.id",
+    "spouseEmail": null,
+    "submissionDate": "19-05-2025 10:05:00"
+  }
+}
