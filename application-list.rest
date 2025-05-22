@@ -1,0 +1,47 @@
+{
+  "status": "OK",
+  "message": "Data Found",
+  "data": {
+    "page": 0,
+    "size": 10,
+    "totalPages": 1,
+    "totalElements": 5,
+    "contents": [
+      {
+        "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
+        "applicationNumber": "20250506115357901948",
+        "nosApplicationNumber": "20250506115357901948",
+        "productName": "GRIYA REGULER",
+        "submissionDate": "19-05-2025 10:05:00"
+      },
+      {
+        "id": "01JTHZ7AZDGYQESAJVQX9M02SB",
+        "applicationNumber": "20250506115617285959",
+        "nosApplicationNumber": "20250506115617285959",
+        "productName": "GRIYA REGULER",
+        "submissionDate": "19-05-2025 10:05:00"
+      },
+      {
+        "id": "01JTJAES424GZ8BEFVFFFQZRCK",
+        "applicationNumber": "20250506151235333539",
+        "nosApplicationNumber": "20250506151235333539",
+        "productName": "GRIYA REGULER",
+        "submissionDate": "19-05-2025 10:05:00"
+      },
+      {
+        "id": "01JVKA9DR5W3TDFR51C1F899WH",
+        "applicationNumber": "20250519104309058530",
+        "nosApplicationNumber": "20250519104309058530",
+        "productName": "GRIYA REGULER",
+        "submissionDate": "19-05-2025 10:05:00"
+      },
+      {
+        "id": "01JVKSPDBCAYVKVM299HW31BPM",
+        "applicationNumber": "20250519151350148588",
+        "nosApplicationNumber": "20250519151350148588",
+        "productName": "GRIYA REGULER",
+        "submissionDate": "19-05-2025 10:05:00"
+      }
+    ]
+  }
+}
