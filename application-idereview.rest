@@ -1,24 +1,222 @@
 {
-    "status": "OK",
-    "message": "Data Found",
-    "data": [
-        {
-            "stage": "dev",
-            "status": "lajang",
-            "startDate": "02/02/2025",
-            "endDate": "02/02/2026"
-        },
-        {
-            "stage": "qa",
-            "status": "kawin",
-            "startDate": "02/02/2025",
-            "endDate": "02/02/2026"
-        },
-        {
-            "stage": "ptr",
-            "status": "janda",
-            "startDate": "02/02/2025",
-            "endDate": "02/02/2026"
-        }
-    ]
+  "status": "OK",
+  "message": "Data Found",
+  "data": [
+    {
+      "Stage": "Initiation Input Data",
+      "Status": "WORK IN PROGRESS",
+      "StartDate": "27/05/2025",
+      "EndDate": "01/01/1900"
+    },
+    {
+      "Stage": "IDE Review And Verify",
+      "Status": "CLOSED",
+      "StartDate": "27/05/2025",
+      "EndDate": "27/05/2025"
+    },
+    {
+      "Stage": "Workbasket IDE Review and Verify",
+      "Status": "CLOSED",
+      "StartDate": "27/05/2025",
+      "EndDate": "27/05/2025"
+    },
+    {
+      "Stage": "Initiation Input Data",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "27/05/2025"
+    },
+    {
+      "Stage": "IDEB Callback Customer",
+      "Status": "WORK IN PROGRESS",
+      "StartDate": "26/05/2025",
+      "EndDate": "01/01/1900"
+    },
+    {
+      "Stage": "IDEB Request Customer",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Decisioning 1 Call 1",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "IDEB Checking",
+      "Status": "WORK IN PROGRESS",
+      "StartDate": "26/05/2025",
+      "EndDate": "01/01/1900"
+    },
+    {
+      "Stage": "Exposure WO",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "KolExCilem Checking",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Exposure NPF",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "OSExposure Checking",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Prev Financing Flag",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "WO Flag Checking",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Deduplication Inprogress",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Financial Monthly",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Bsi Priority Check",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Prev Financing",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "External Data Check BSI Bisa",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Deduplication Cancelled",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Exposure Restrutur",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Exposure Checking",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "ETB Dana Check",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "SIP Checking",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "ASN Bo2 Flag",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Payroll Check, 1 to 2, 3 , >12",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Payroll Migol Check",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "BSI Payroll Main Bank",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Deduplication Rejected",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Customer DEDUP Internal Medina",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Spouse DEDUP Internal Medina",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Dukcapil",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "CIF Selection",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Pra Initiation Review",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Workbasket Prainitiation Review",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    },
+    {
+      "Stage": "Pra Inititation Input Data",
+      "Status": "CLOSED",
+      "StartDate": "26/05/2025",
+      "EndDate": "26/05/2025"
+    }
+  ]
 }
