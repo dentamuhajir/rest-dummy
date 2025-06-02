@@ -1,0 +1,11 @@
+{
+    "status": "OK",
+    "message": "Login Success",
+    "data": {
+        "token": "",
+        "status": 1,
+        "email": "jeki@dev99.com",
+        "name": "Zakharia",
+        "userId": "01JWQT6KGQ8NGV5VZBHSVJ7WRS"
+    }
+}
