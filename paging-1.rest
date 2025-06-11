@@ -1,82 +1,82 @@
 {
-  "status": "OK",
-  "message": "Data Found",
-  "data": {
-    "page": 0,
-    "size": 10,
-    "totalPages": 2,
-    "totalElements": 5,
-    "contents": [
-      {
-        "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
-        "applicationNumber": "20250506115357901948",
-        "nosApplicationNumber": "20250506115357901948",
-        "productName": "GRIYA PAGE 1",
-        "submissionDate": "19-05-2025 10:05:00"
-      },
-      {
-        "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
-        "applicationNumber": "20250506115357901948",
-        "nosApplicationNumber": "20250506115357901948",
-        "productName": "GRIYA PAGE 1",
-        "submissionDate": "19-05-2025 10:05:00"
-      },
-      {
-        "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
-        "applicationNumber": "20250506115357901948",
-        "nosApplicationNumber": "20250506115357901948",
-        "productName": "GRIYA PAGE 1",
-        "submissionDate": "19-05-2025 10:05:00"
-      },
-      {
-        "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
-        "applicationNumber": "20250506115357901948",
-        "nosApplicationNumber": "20250506115357901948",
-        "productName": "GRIYA PAGE 1",
-        "submissionDate": "19-05-2025 10:05:00"
-      },
-      {
-        "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
-        "applicationNumber": "20250506115357901948",
-        "nosApplicationNumber": "20250506115357901948",
-        "productName": "GRIYA PAGE 1",
-        "submissionDate": "19-05-2025 10:05:00"
-      },
-      {
-        "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
-        "applicationNumber": "20250506115357901948",
-        "nosApplicationNumber": "20250506115357901948",
-        "productName": "GRIYA PAGE 1",
-        "submissionDate": "19-05-2025 10:05:00"
-      },
-      {
-        "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
-        "applicationNumber": "20250506115357901948",
-        "nosApplicationNumber": "20250506115357901948",
-        "productName": "GRIYA PAGE 1",
-        "submissionDate": "19-05-2025 10:05:00"
-      },
-      {
-        "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
-        "applicationNumber": "20250506115357901948",
-        "nosApplicationNumber": "20250506115357901948",
-        "productName": "GRIYA PAGE 1",
-        "submissionDate": "19-05-2025 10:05:00"
-      },
-      {
-        "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
-        "applicationNumber": "20250506115357901948",
-        "nosApplicationNumber": "20250506115357901948",
-        "productName": "GRIYA PAGE 1",
-        "submissionDate": "19-05-2025 10:05:00"
-      },
-      {
-        "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
-        "applicationNumber": "20250506115357901948",
-        "nosApplicationNumber": "20250506115357901948",
-        "productName": "GRIYA PAGE 1",
-        "submissionDate": "19-05-2025 10:05:00"
-      },
-    ]
-  }
+    "status": "OK",
+    "message": "Data Found",
+    "data": {
+        "page": 0,
+        "size": 10,
+        "totalPages": 2,
+        "totalElements": 5,
+        "contents": [
+            {
+                "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
+                "applicationNumber": "20250506115357901948",
+                "nosApplicationNumber": "20250506115357901948",
+                "productName": "GRIYA PAGE 1",
+                "submissionDate": "19-05-2025 10:05:00"
+            },
+            {
+                "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
+                "applicationNumber": "20250506115357901948",
+                "nosApplicationNumber": "20250506115357901948",
+                "productName": "GRIYA PAGE 1",
+                "submissionDate": "19-05-2025 10:05:00"
+            },
+            {
+                "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
+                "applicationNumber": "20250506115357901948",
+                "nosApplicationNumber": "20250506115357901948",
+                "productName": "GRIYA PAGE 1",
+                "submissionDate": "19-05-2025 10:05:00"
+            },
+            {
+                "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
+                "applicationNumber": "20250506115357901948",
+                "nosApplicationNumber": "20250506115357901948",
+                "productName": "GRIYA PAGE 1",
+                "submissionDate": "19-05-2025 10:05:00"
+            },
+            {
+                "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
+                "applicationNumber": "20250506115357901948",
+                "nosApplicationNumber": "20250506115357901948",
+                "productName": "GRIYA PAGE 1",
+                "submissionDate": "19-05-2025 10:05:00"
+            },
+            {
+                "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
+                "applicationNumber": "20250506115357901948",
+                "nosApplicationNumber": "20250506115357901948",
+                "productName": "GRIYA PAGE 1",
+                "submissionDate": "19-05-2025 10:05:00"
+            },
+            {
+                "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
+                "applicationNumber": "20250506115357901948",
+                "nosApplicationNumber": "20250506115357901948",
+                "productName": "GRIYA PAGE 1",
+                "submissionDate": "19-05-2025 10:05:00"
+            },
+            {
+                "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
+                "applicationNumber": "20250506115357901948",
+                "nosApplicationNumber": "20250506115357901948",
+                "productName": "GRIYA PAGE 1",
+                "submissionDate": "19-05-2025 10:05:00"
+            },
+            {
+                "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
+                "applicationNumber": "20250506115357901948",
+                "nosApplicationNumber": "20250506115357901948",
+                "productName": "GRIYA PAGE 1",
+                "submissionDate": "19-05-2025 10:05:00"
+            },
+            {
+                "id": "01JTHZ32BGTWG5281S00Q2SRZ3",
+                "applicationNumber": "20250506115357901948",
+                "nosApplicationNumber": "20250506115357901948",
+                "productName": "GRIYA PAGE 1",
+                "submissionDate": "19-05-2025 10:05:00"
+            }
+        ]
+    }
 }
