@@ -1,0 +1,34 @@
+"status": "OK",
+"message": "Success",
+"data": {
+    "categoryId": "01J6RVQ83S7TVVH4BE14KYPPQ6",
+    "categoryName": "Griya Reguler",
+    "categoryCode": "GRIYA_REGULER",
+    "articleItemList": [
+      {
+        "articleId": "01J7ZCZK8EVXKHABC59EQ2KAW2",
+        "title": "Beli Rumah Sekaligus Dapat Kesempatan ke Baitullah, Emang Bisa?",
+        "createdAt": "2024-09-17T07:08:37.007+00:00",
+        "imageUrl": "https://10.0.244.58:8080/image-griya/img/lpc-article/2024-10-29-Beli Rumah Sekaligus Kesempatan ke Baitullah.png",
+        "imageAlt": "Beli Rumah Sekaligus Dapat Kesempatan ke Baitullah, Emang Bisa",
+        "slug": "beli-rumah-sekaligus-dapat-kesempatan-ke-baitullah-emang-bisa"
+      },
+      {
+        "articleId": "01J7ZE99PB9MJJHHEM9HV661Q8",
+        "title": "Own Your Dream House, Bersama Yang Pasti Part I",
+        "createdAt": "2024-09-17T07:31:23.467+00:00",
+        "imageUrl": "https://10.0.244.58:8080/image-griya/img/lpc-article/2024-10-29-Own Your Dream House Part I.png",
+        "imageAlt": "Own Your Dream House, Bersama Yang Pasti Part I",
+        "slug": "own-your-dream-house-bersama-yang-pasti-part-i"
+      },
+      {
+        "articleId": "01JAPJRQ93P8MFB9TJBE4PCHQ4",
+        "title": "Sudah Tahu Arti Akad Pembiayaan Rumah-mu?",
+        "createdAt": "2024-10-21T03:43:38.787+00:00",
+        "imageUrl": "https://10.0.244.58:8080/image-griya/img/lpc-article/2024-10-29-Artikel Akad Pembiayaan (995 x 560 px).png.png",
+        "imageAlt": "Sudah Tahu Arti Akad Pembiayaan Rumah-mu?",
+        "slug": "sudah-tahu-arti-akad-pembiayaan-rumahmu"
+      }
+    ]
+  }
+}
