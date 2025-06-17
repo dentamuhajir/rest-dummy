@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "message": "Success",
+  "data": {
+    "productId": "01J55MQ1MCXD5JXY68AE7ZWJWN",
+    "productName": "Griya",
+    "productCode": "GRIYA",
+    "articleCatItemList": [
+      {
+        "categoryId": "01J6RVP7J9WQ3DQQ2S2BJGBXF1",
+        "categoryName": "Terbaru",
+        "categoryCode": "TERBARU"
+      },
+      {
+        "categoryId": "01J6RVQ83S7TVVH4BE14KYPPQ6",
+        "categoryName": "Griya Reguler",
+        "categoryCode": "GRIYA_REGULER"
+      },
+      {
+        "categoryId": "01J6RVQGDPXFCFBEAZJ4WQESGP",
+        "categoryName": "Griya Subsidi",
+        "categoryCode": "GRIYA_SUBSIDI"
+      }
+    ]
+  }
+}
