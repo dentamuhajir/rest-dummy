@@ -1,6 +1,7 @@
-"status": "OK",
-"message": "Success",
-"data": {
+{
+  "status": "OK",
+  "message": "Success",
+  "data": {
     "categoryId": "01J6RVQ83S7TVVH4BE14KYPPQ6",
     "categoryName": "Griya Reguler",
     "categoryCode": "GRIYA_REGULER",
